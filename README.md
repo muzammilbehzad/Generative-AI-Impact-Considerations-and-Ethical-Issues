@@ -1,6 +1,7 @@
 # Generative AI: Impact, Considerations, and Ethical Issues
 
 The knowledge base contanis a specialization overview from the course [Generative AI: Foundation Models and Platforms](https://www.coursera.org/learn/generative-ai-ethical-considerations-and-implications) by [IBM](https://www.ibm.com/us-en) on [Coursera](https://www.coursera.org/). It is divided into following modules:
+- [Considerations for Responsible Generative AI](ConsiderationsforResponsibleAI.md)
 - [Limitations, Concerns, and Issues of Generative AI](LimitationsConcernsandIssuesofGenerativeAI.md)
 
 ![](info.png)
